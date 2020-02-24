@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hellojhvsdjhfkdjkhjdsbkhsfbkfbjdbfdfjkkjskjsbb
 shbjb
 hbdsjdu
 hfhfhhsh
+=======
+hellojhvsdjhfkdjk
+>>>>>>> parent of 11a13e8... hfhfh
 =======
 hellojhvsdjhfkdjk
 >>>>>>> parent of 11a13e8... hfhfh
