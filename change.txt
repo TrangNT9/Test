@@ -1,2 +1,10 @@
-co len nhe Trang
-co len nhe Trang
+<<<<<<< HEAD
+<<<<<<< HEAD
+fffffjhsbfbhkuavubbfjdzbkjsdsj,skjsbk
+co len nhe trang
+=======
+fffff
+>>>>>>> parent of 11a13e8... hfhfh
+=======
+fffff
+>>>>>>> parent of 11a13e8... hfhfh
